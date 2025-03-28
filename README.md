@@ -98,5 +98,4 @@ Com mais de 10 anos de experiência em TI, sou um profissional apaixonado por te
 adeilson.engpc@gmail.com
 
 ---
-⭐️ From [Adeilson](https://github.com/Adeilsonnm) 
-⭐️ From [Phidev](wzp.icu) 
+⭐️ From [Adeilson](https://github.com/Adeilsonnm)
