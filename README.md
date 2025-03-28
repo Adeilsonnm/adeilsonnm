@@ -1,4 +1,4 @@
-# Adeilson
+# Adeilson Nogueira
 
 ## 🚀 Desenvolvedor Full Stack & Especialista em TI
 
@@ -88,13 +88,15 @@ Com mais de 10 anos de experiência em TI, sou um profissional apaixonado por te
 - Implementação de SEO
 - Desenvolvimento de área administrativa
 - Sistema de gerenciamento de fotos
-- Integração com redes sociais
 
 ## 📚 Formação Acadêmica
-[Adicione sua formação acadêmica aqui]
+- Graduação em Ciências de Computação 
+- Técnico em Redes de Computadores
+
 
 ## 📫 Contato
-[Adicione suas informações de contato aqui]
+adeilson.engpc@gmail.com
 
 ---
-⭐️ From [Seu Nome](https://github.com/Adeilsonnm) 
+⭐️ From [Adeilson](https://github.com/Adeilsonnm) 
+⭐️ From [Phidev](wzp.icu) 
